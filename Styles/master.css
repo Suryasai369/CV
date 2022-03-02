@@ -1,0 +1,40 @@
+/* ctrl+shift+a for sorting */
+body{
+    margin: 0;
+    background-color: skyblue;
+}
+h1{
+    font-size: 562%;
+    color: yellow;
+    font-family:'Sacramento', cursive ;
+    margin: auto;
+}
+.about{
+    margin-top: 150px;
+    font-family: 'Merriweather', serif;
+}
+hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 10%;
+}
+#profile{
+    border-radius: 50%;
+    margin-top: 10%;
+}
+span{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.top-container{
+    position: relative;
+}
